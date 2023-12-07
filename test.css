@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wholepage{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.interface{
+    margin-top: 10px;
+    background-image: url("fav.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.skipad{
+    background-color: rgb(228, 228, 228);
+    padding: 10px;
+    padding-left: 50px;
+    height: 20px;
+    border: 1px solid rgb(228, 228, 228);
+    font-weight: bold;
+    margin-bottom: 40px;
+    width: 100px;
+    font-size: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 10px;
+}
+.youtube i{
+    color: red;
+}
+.interface i{
+    font-size: 100px;
+    color: rgb(158, 158, 158);
+    margin-bottom: 190px;
+    margin-right: 430px;
+}
+.content2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile{
+    margin-top: 18px;
+    margin-left: 25px;
+    height: 115px;
+    width: 115px;
+    background-color: rgb(192, 192, 192);
+    border-radius: 75px;
+    border: 1px solid transparent;
+}
+.prof1{
+    width: 1075px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: rgb(192, 192, 192);
+    margin-right: 15px;
+}
+.prof2{
+    width: 500px;
+    height: 18px;
+    border-radius: 50px;
+    background-color: rgb(192, 192, 192);
+    margin-right: 15px;
+    margin-left: 172px;
+    margin-top: -35px;
+}
+.prof3{
+    width: 1240px;
+    height: 18px;
+    border-radius: 50px;
+    background-color: rgb(192, 192, 192);
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.prof4{
+    width: 1240px;
+    height: 18px;
+    border-radius: 50px;
+    background-color: rgb(192, 192, 192);
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.prof5{
+    width: 500px;
+    height: 18px;
+    border-radius: 50px;
+    background-color: rgb(192, 192, 192);
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.prof6{
+    margin-top: 80px;
+    height: 70vh;
+    background-color: rgb(192, 192, 192);
+}
+
